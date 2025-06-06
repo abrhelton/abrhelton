@@ -1,17 +1,3 @@
-# Nome do Projeto
-
-Descrição breve do projeto e seu objetivo principal.
-
-## 🔧 Tecnologias utilizadas
-
-- PySpark ⚡
-- Databricks 🔥
-- SQL Server 🗄️
-- ASP.NET MVC 🌐
-- MLflow 🧪
-- Docker 🐳
-- AWS ☁️
-
 ## 🧠 Sobre mim
 
 Sou Cientista de Dados com experiência em projetos aplicados de machine learning, engenharia de dados e desenvolvimento web.
@@ -25,13 +11,15 @@ Sou Cientista de Dados com experiência em projetos aplicados de machine learnin
 - Adepto de boas práticas de deploy e versionamento com MLflow, Docker e AWS  
 - 🚀 Sempre em busca de desafios que conectem ciência de dados, tecnologia e impacto real
 
-## 📦 Como rodar o projeto
+  ## 🔧 Tecnologias utilizadas nos meus projetos
 
-Instruções de instalação, dependências e como executar o projeto localmente.
-
-## 📄 Licença
-
-Este projeto está licenciado sob [MIT License](LICENSE), ou outra que desejar.
+- PySpark ⚡
+- Databricks 🔥
+- SQL Server 🗄️
+- ASP.NET MVC 🌐
+- MLflow 🧪
+- Docker 🐳
+- AWS ☁️
 
 ## 📫 Contato
 
