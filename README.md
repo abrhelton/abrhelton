@@ -24,4 +24,5 @@ Sou Cientista de Dados com experiência em projetos aplicados de machine learnin
 ## 📫 Contato
 
 LinkedIn: https://www.linkedin.com/in/helton-abrantes
+
 Email: helton.abrantes@gmail.com
