@@ -1,28 +1,33 @@
-## Sobre mim
+Claro! Aqui está a tradução mantendo as tags markdown e emojis:
 
-Sou Cientista de Dados com experiência em projetos aplicados de machine learning, engenharia de dados e desenvolvimento web.
+---
 
-- Foco em soluções escaláveis, limpas e orientadas a resultados  
-- Atualmente trabalhando com deep learning aplicado à neurociência 🧠 (redes neurais siamesas)  
-- Interesse especial em:  
-  - 💳 Modelagem de risco de crédito  
-  - 📈 Séries temporais  
-  - 📊 Estratégias quantitativas  
-- Adepto de boas práticas de deploy e versionamento com MLflow, Docker e AWS  
-- 🚀 Sempre em busca de desafios que conectem ciência de dados, tecnologia e impacto real
+## About me
 
-## 🔧 Tecnologias utilizadas nos meus projetos
+I am a Data Scientist with experience in applied Machine Learning and Deep Learning projects.
 
-- PySpark ⚡
-- Databricks 🔥
-- SQL Server 🗄️
-- ASP.NET MVC 🌐
-- MLflow 🧪
-- Docker 🐳
-- AWS ☁️
+* Focused on scalable, clean, and results-driven solutions
+* Currently working with deep learning applied to neuroscience 🧠 (siamese neural networks)
+* Special interests in:
 
-## 📫 Contato
+  * 💳 Credit risk modeling
+  * 📈 Time series
+  * 📊 Quantitative strategies
+* Advocate of good deployment and versioning practices using MLflow, Docker, and AWS
+* 🚀 Always seeking challenges that connect data science, technology, and real impact
 
-LinkedIn: https://www.linkedin.com/in/helton-abrantes
+## 🔧 Technologies used in my projects
 
-Email: helton.abrantes@gmail.com
+* PySpark ⚡
+* Databricks 🔥
+* SQL Server 🗄️
+* ASP.NET MVC 🌐
+* MLflow 🧪
+* Docker 🐳
+* AWS ☁️
+
+## 📫 Contact
+
+LinkedIn: [https://www.linkedin.com/in/helton-abrantes](https://www.linkedin.com/in/helton-abrantes)
+
+Email: [helton.abrantes@gmail.com](mailto:helton.abrantes@gmail.com)
