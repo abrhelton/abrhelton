@@ -1,7 +1,3 @@
-Claro! Aqui está a tradução mantendo as tags markdown e emojis:
-
----
-
 ## About me
 
 I am a Data Scientist with experience in applied Machine Learning and Deep Learning projects.
