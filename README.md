@@ -11,7 +11,7 @@ Sou Cientista de Dados com experiência em projetos aplicados de machine learnin
 - Adepto de boas práticas de deploy e versionamento com MLflow, Docker e AWS  
 - 🚀 Sempre em busca de desafios que conectem ciência de dados, tecnologia e impacto real
 
-  ## 🔧 Tecnologias utilizadas nos meus projetos
+🔧 Tecnologias utilizadas nos meus projetos
 
 - PySpark ⚡
 - Databricks 🔥
